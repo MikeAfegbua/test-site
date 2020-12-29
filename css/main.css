@@ -1,0 +1,150 @@
+ /*HEADER */
+.containerhead a {
+  text-decoration: none;
+  color:black;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+.containerhead a:hover{
+  color: red;
+  overflow: hidden;
+}
+.containerhead{
+  background-color:#c7e969;
+  width: 100%;
+  height: 100px;
+  padding-top: 40px;
+  text-align: center;
+
+}
+
+body{
+  margin: 0;
+}
+
+.home{
+  display: inline-block;
+  width: 280px;
+  height: 40px;
+  background-color: white;
+  opacity: 80%;
+  border: solid white 1px;
+  border-radius: 30px;
+  padding: 5px;
+  padding-top: 10px;
+
+}
+.home :hover{
+  background-color: #c7e969;
+  color:red;
+ 
+}
+
+.about{
+  display: inline-block;
+  width: 280px;
+  height: 40px;
+  background-color: #c7e969;
+  border: solid white 1px;
+  border-radius: 30px;
+  padding: 5px;
+  padding-top: 10px;}
+
+.contacts{
+  display: inline-block;
+  width: 280px;
+  height: 40px;
+  background-color: #c7e969;
+  border: solid white 1px;
+  border-radius: 30px;
+  padding: 5px;
+  padding-top: 10px;
+}
+.partner{
+  display: inline-block;
+  width: 280px;
+  height: 40px;
+  background-color: #c7e969;
+  border: solid white 1px;
+  border-radius: 30px;
+  padding: 5px;
+  padding-top: 10px;
+}
+
+                                                         /*section 1 */
+
+.logo img{
+
+  max-width: 100%;
+  height: auto;
+}
+.logo{
+  width:600px;
+  padding-top: 80px;
+  
+}
+.location{
+  text-align: middle;
+  padding-right: 20px;
+}
+
+.sect1{
+  width: 100%;
+  height: 200px;
+}
+.rightside{
+  display: inline-block;
+}
+.location h1{
+  color: #d83700;
+  font-family: sans-serif;
+  text-align: center;
+  padding-left: 120px;
+}
+.location h3{
+  color: #d83700;
+  font-family: sans-serif;
+  text-align: center;
+  padding-left: 120px;
+}
+.school{
+  width: 200px;
+  height: 100px;
+  padding-left: 250px;
+}
+.ng{
+  text-align: center;
+  border: solid #d83700 1px;
+  border-radius: 30px;
+  height: 20px;
+}
+.sg{
+  text-align: center;
+  border: solid #d83700 1px;
+  border-radius: 30px;
+  margin-top: 10px;
+  height: 20px;
+}
+.futas{
+  text-align: center;
+  border: solid #d83700 1px;
+  border-radius: 30px;
+  margin-top: 10px;
+  height: 20px;
+}
+.ng a{
+  color:#d83700;
+  font-size: 15px;
+  text-decoration: initial;
+}
+.sg a{
+  color:#d83700 ;
+  font-size: 15px;
+  text-decoration: initial;
+
+}
+.futas a{
+  color:#d83700 ;
+  font-size: 15px;
+  text-decoration: initial;
+}
